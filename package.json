@@ -1,0 +1,23 @@
+{
+  "name": "animated-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:tailwind": "tailwindcss -i ./src/style.css -o ./dist/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/jokoul/project-27-Animated-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jokoul/project-27-Animated-template/issues"
+  },
+  "homepage": "https://github.com/jokoul/project-27-Animated-template#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
