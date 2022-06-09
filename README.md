@@ -9,3 +9,5 @@ this is a dynamic website made with Javascript, Tailwindcss and deploy with Netl
 Javascript, Tailwindcss, random-use-rAPI, AOS library
 
 ## Launch
+
+https://loquacious-rugelach-13856d.netlify.app/
