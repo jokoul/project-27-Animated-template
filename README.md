@@ -2,7 +2,7 @@
 
 ## Description
 
-this is a dynamic website made with Javascript, Tailwindcss and deploy with Netlify. I use also random user generator API to generate fake user data and AOS javascript library to set animation with data-aos attribute.
+this is a dynamic website made with Javascript, Tailwindcss and deploy with Netlify. I use also random user generator API to populate the website and AOS javascript library to set animation with data-aos attribute.
 
 ## Stack
 
